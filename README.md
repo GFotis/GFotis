@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am **GFotis**, currently an undergraduate student at the department of Informatics and Telecommunications of the University of the Peloponnese.
+I am **GFotis**, currently an undergraduate student at the department of Informatics and Telecommunications of the University of the Peloponnese, and soon I'll be graduating as a Coder.
 
 Here are some ideas to get you started:
 
